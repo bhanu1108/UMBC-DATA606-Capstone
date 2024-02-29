@@ -35,7 +35,7 @@ For a variety of stakeholders in the automotive industry, it is essential to com
 
 - **Data sources:** [Used Cars Dataset on Kaggle](https://www.kaggle.com/datasets/thedevastator/uncovering-factors-that-affect-used-car-prices)
 - **Data size:** 70.96 MB
-- **Data shape:**  - 233531 rows, 21 columns
+- **Data shape:**  - 371528 rows, 21 columns
 - **What does each row represent?**
   - Each row in the dataset represents a single advertisement for a used car. Each advertisement provides information about a specific car that is being sold, including details such as its make and model, year of registration, seller type, price, condition, and various other attributes. In summary, each row represents a unique listing of a used car for sale, with accompanying details about the vehicle and its listing.
 
